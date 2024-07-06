@@ -1,0 +1,1 @@
+A simple CLI Wordle clone made in rust
